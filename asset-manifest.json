@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Gourmet-Vista/static/js/main.6dad20b8.js",
+    "static/media/main-logo.png": "/Gourmet-Vista/static/media/main-logo.0564299235aee4992c2d.png",
+    "index.html": "/Gourmet-Vista/index.html",
+    "main.6dad20b8.js.map": "/Gourmet-Vista/static/js/main.6dad20b8.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6dad20b8.js"
+  ]
+}
